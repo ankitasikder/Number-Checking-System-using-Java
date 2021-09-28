@@ -1,0 +1,1 @@
+Amstrong Number Checked at 2021/09/28  19:40:14 USERNAME : ROMI  Input no:- 153 Result:- true
