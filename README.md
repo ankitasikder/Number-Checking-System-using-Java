@@ -1,6 +1,6 @@
 # Number-Checking-System-using-Java
 
-***This 'Student Record System' using JDBC is created by Ankita Sikder and Biswarup Bhattacharjee, students of BTECH, in University of Engineering and Management, Kolkata.***
+***This 'Number Checking System' using Java is created by Ankita Sikder, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 **Email Id: ankita.sikder14@gmail.com.** 
 
