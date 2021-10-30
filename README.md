@@ -14,35 +14,58 @@
 
 [![Generic badge](https://img.shields.io/badge/java%20-programming-brightgreen)](https://shields.io/) 
 
-## About :point_down:
+## About :point_down: 
 
 <div align="justified">
-     
-
+  
+This is a Number Checking system based on object oriented programming concepts of Java. I have created this using specific logics of 25 popular numbers, object orientation in java and various features of Java. There is no Gui in this project but I have focused on the java basic concepts, code reusability and optimized codes. The output screen opens after running the program. It takes a username. Then it takes password. If it matches with the authorization password then we can entre and use the output for various checking. In the main menu there are 3 options. Number checking, number checking within range and exit. For the first 2 options a menu will be opened with total 27 options. Here 25 types of number can be checked. For range we have to provide the lower limit and upper limit. Also we can go to main menu from this menu. I have also created a file named History.txt. Here user will be able to see what has ben checked along with user name, time and reslut. This is an inter-mediate Core Java Project.  
+  
 </div>
-
-## Applications :point_down:
-
-
+ 
 ## Folder Structure :point_down:
 
 ```bash
-JDBC-STUDENT-RECORD-SYSTEM
-     ├── .settings
-     ├── bin
-     ├── src
-     |     ├── com/student/manage
-     |     |         ├── ConnectionMethods.class
-     |     |         ├── ConnectionMethods.java
-     |     |         ├── ConnectionProvider.java
-     |     |         ├── ConnectionProvider.class
-     |     |         ├── Student.java
-     |     |         └── Student.class
-     |     ├── start.class
-     |     ├── start.java
-     |     └── menu.class 
-     └── .project
-```                      
+NCS-JAVA
+ └── Src
+      ├── Main.java
+      ├── COMPONENTS
+      |    ├── DEFINITIONS.java
+      |    ├── FETCHCURRENTDATEANDTIME.java
+      |    ├── HELPERNAVIGATION.java
+      |    ├── HELPERNAVIGATION2.java
+      |    ├── HISTORYSAVER.java
+      |    ├── MENU.java
+      |    ├── NAVIGATOR.java
+      |    ├── RESULTS.java
+      |    └── TAKEINPUTS.java
+      └── LOGICS
+           ├── Amicablenum.java
+           ├── Amstrong_no.java
+           ├── Automorphicnum.java
+           ├── Buzznum.java
+           ├── Circularprime_no.java
+           ├── Composite_no.java
+           ├── Disariumnum.java
+           ├── Duck_no.java
+           ├── Emirp_no.java
+           ├── Evenodd_no.java
+           ├── Fibonaccinumseries.java
+           ├── Happy_no.java
+           ├── Harshad_no.java
+           ├── ISBNnum.java
+           ├── Krishnamurthynum.java
+           ├── Magic_no.java
+           ├── Negativenum.java
+           ├── Neonnum.java
+           ├── Palindrome_no.java
+           ├── Perfect_no.java
+           ├── Prime_no.java
+           ├── Primepalindrome_no.java
+           ├── Pronicnum.java
+           ├── Smith_no.java
+           └── Special_no.java
+
+```                                  
 
 ## Screenshots of NCS :point_down: 
 
