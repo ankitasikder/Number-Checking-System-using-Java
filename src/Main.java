@@ -2,6 +2,16 @@ import java.io.BufferedReader;
 import java.io.*;
 import java.util.*;
 import COMPONENTS.*;
+/*ALL THESE WORKS ARE DONE BY 
+
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com
+*/
 
 
 import javax.imageio.IIOException;
